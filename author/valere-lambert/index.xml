@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valère Lambert | Sagar Masuti</title>
+    <link>https://smasuti.github.io/author/valere-lambert/</link>
+      <atom:link href="https://smasuti.github.io/author/valere-lambert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valère Lambert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sagar Masuti</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smasuti.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Valère Lambert</title>
+      <link>https://smasuti.github.io/author/valere-lambert/</link>
+    </image>
+    
+    <item>
+      <title>Imaging the distribution of transient viscosity after the 2016 Mw 7.1 Kumamoto earthquake</title>
+      <link>https://smasuti.github.io/publication/moore-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://smasuti.github.io/publication/moore-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

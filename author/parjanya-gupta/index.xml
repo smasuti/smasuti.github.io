@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parjanya Gupta | Sagar Masuti</title>
+    <link>https://smasuti.github.io/author/parjanya-gupta/</link>
+      <atom:link href="https://smasuti.github.io/author/parjanya-gupta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parjanya Gupta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sagar Masuti</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smasuti.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Parjanya Gupta</title>
+      <link>https://smasuti.github.io/author/parjanya-gupta/</link>
+    </image>
+    
+    <item>
+      <title>Limits of FPGA acceleration of 3D Green&#39;s Function computation for geophysical applications</title>
+      <link>https://smasuti.github.io/publication/kapre-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://smasuti.github.io/publication/kapre-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
