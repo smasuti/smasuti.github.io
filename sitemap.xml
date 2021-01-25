@@ -3,43 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://smasuti.github.io/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://smasuti.github.io/talks/</loc>
+  </url>
+  
+  <url>
     <loc>https://smasuti.github.io/publication-type/2/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T18:07:29+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://smasuti.github.io/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T18:07:29+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://smasuti.github.io/publication/masuti-20/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://smasuti.github.io/publication/masuti-21-b/</loc>
+    <lastmod>2021-01-25T18:07:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smasuti.github.io/author/f.-costa/</loc>
+    <lastmod>2021-01-25T18:07:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smasuti.github.io/publication/masuti-21-a/</loc>
+    <lastmod>2021-01-25T18:07:28+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://smasuti.github.io/publication_types/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T18:07:29+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://smasuti.github.io/publication/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T18:07:29+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://smasuti.github.io/author/s.-barbot/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T18:07:29+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://smasuti.github.io/author/s.-masuti/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T18:07:29+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://smasuti.github.io/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T18:07:29+09:00</lastmod>
   </url>
   
   <url>
@@ -179,6 +197,10 @@
   
   <url>
     <loc>https://smasuti.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://smasuti.github.io/post/</loc>
   </url>
   
   <url>
